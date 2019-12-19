@@ -16,7 +16,7 @@ PATH
 ## install ssh service with powershell
 - Open PowerShell command prompt by administrator
 - cd c:\tools\OpenSSH-Win64
-- install.pl
+- sshd install
 
 # change the setting
 - c:\ProgramData\ssh\sshd_config
