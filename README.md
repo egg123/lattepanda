@@ -25,3 +25,10 @@ PATH
 - AuthorizedKeysFile .ssh/authorized_keys
 
 # auto start service
+
+PowerShell
+- Set-Service -Name sshd -StartupType 'Automatic'
+
+# change firewall
+
+
